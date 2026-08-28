@@ -47,3 +47,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# macOS Finder metadata
+.DS_Store
+
+# Quarto internals
+/.quarto/
+
+# Rendered Quarto output; regenerate with `quarto render <file>.qmd`
+*.html
+*_files/
